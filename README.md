@@ -13,3 +13,6 @@ This project demonstrates a real-time system for detecting, classifying, and cou
 - **YOLOv11**: Advanced object detection model.
 - **ByteTrack**: Multi-object tracking framework.
 - **Supervision Library**: Used for annotations and processing.
+## Credits
+- **YOLOv11**: Model by [Ultralytics](https://github.com/ultralytics).
+- **Roboflow**: Dataset management and model versioning, and for providing resources for a similar project used as a reference
